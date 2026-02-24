@@ -14,10 +14,6 @@ Currently focused on:
 - Machine Learning & NLP
 - System architecture & backend optimization
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/20_soft_heart_queen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mifra-nijam-53145424a) 
-
 ## 🛠️ Tech Stack
 
 ### 💻 Backend Development
@@ -54,13 +50,5 @@ Currently focused on:
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-mifra-53145424a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mifranijam@gmail.com)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FathimaMifra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=FathimaMifra&icon=0&color=5)](https://visitcount.itsvg.in)
-
-⭐ “Passionate about building intelligent systems that solve real-world problems.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
